@@ -13,3 +13,5 @@ The work is divided into two main parts:
 The project was a collaborative effort, combining data preprocessing, supervised learning implementation, and unsupervised analysis to extract meaningful insights from the dataset.
 
  **Team members: Esty Carmiel and Dean Israel**
+
+ # notice: the project contains a lot of models so be patient. it will finish run the notebook approximately 8 min.
