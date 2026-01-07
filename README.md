@@ -4,7 +4,7 @@ The dataset used in this project refers to a pilot conducted in San Francisco th
 The analysis was designed to explore patterns, predict outcomes, and optimize drivers’ decision-making processes on whether to take a trip or not.
 
 The dataset was taken from data.gov.
-Link to the dataset: https://catalog.data.gov/dataset/taxi-trips-8c270 and it has 4M rows with 28 columns
+Link to the dataset: [https://catalog.data.gov/dataset/taxi-trips-8c270](https://data.sfgov.org/api/views/m8hk-2ipk/rows.csv?accessType=DOWNLOAD) and it has 4M rows with 28 columns
 
 The work is divided into two main parts:  
 1. **Unsupervised learning:** Applying clustering and pattern recognition techniques to uncover hidden structures in the data and learn what makes a trip profitable for a taxi driver.  
