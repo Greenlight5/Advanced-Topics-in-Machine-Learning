@@ -3,7 +3,7 @@ This project was conducted as part of a machine learning study focusing on super
 The dataset used in this project refers to a pilot conducted in San Francisco that collected taxi trip data from 2023.
 The analysis was designed to explore patterns, predict outcomes, and optimize drivers’ decision-making processes on whether to take a trip or not.
 
-The dataset was taken from data.gov and it has 4M rows with 28 columns.
+The dataset was taken from data.gov and it has 4M rows with 28 columns.   
 Link to the official site: https://catalog.data.gov/dataset/taxi-trips-8c270   
 Link to download the dataset: https://data.sfgov.org/api/views/m8hk-2ipk/rows.csv?accessType=DOWNLOAD 
 
