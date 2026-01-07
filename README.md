@@ -4,7 +4,7 @@ The dataset used in this project refers to a pilot conducted in San Francisco th
 The analysis was designed to explore patterns, predict outcomes, and optimize drivers’ decision-making processes on whether to take a trip or not.
 
 The dataset was taken from data.gov and it has 4M rows with 28 columns.
-Link to the official site: https://catalog.data.gov/dataset/taxi-trips-8c270
+Link to the official site: https://catalog.data.gov/dataset/taxi-trips-8c270   
 Link to download the dataset: https://data.sfgov.org/api/views/m8hk-2ipk/rows.csv?accessType=DOWNLOAD 
 
 The work is divided into two main parts:  
