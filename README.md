@@ -14,4 +14,5 @@ The project was a collaborative effort, combining data preprocessing, supervised
 
  **Team members: Esty Carmiel and Dean Israel**
 
- # notice: the project contains a lot of models so be patient. it will finish run the notebook approximately 8 min.
+ ## notice: The project contains a lot of models so be patient. 
+ ## It will finish run the notebook approximately 8 min.
